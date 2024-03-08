@@ -1,6 +1,6 @@
 REM Do not run this without fully understanding what a fork bomb is.
 REM It keeps splitting itself until there is no option but to restart the system.
-REM Should you accidentally run this, you can close it via the task manager if you are fast enough.
+REM Should you accidentally run this, you can close it via the task manager/closing the CMD prompt window.
 @echo off
 
 echo.
